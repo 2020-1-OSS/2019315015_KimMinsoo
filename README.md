@@ -1,1 +1,1 @@
-# 2019315015_KimMinsoo
+# Rock-Paper-Scissors Game
